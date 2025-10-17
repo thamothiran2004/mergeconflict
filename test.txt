@@ -1,1 +1,2 @@
-city:bnagalore
+
+city:bangalore
